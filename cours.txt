@@ -1,0 +1,19 @@
+php procédural : ligne par ligne 
+programmation orienté objet, aspect, contrat...
+
+porgammation orienté objet : nouvelle approche
+
+inconvénients de la poo :
+
+- techniquement, on ne peut rien faire de plus par rapport au procédural 
+- moins intuitif que le procédural 
+- légère perte de performance
+
+
+avantages :
+
+- modulariser afin d'avoir un code évolutif
+- favorise le travail collaboratif (UML : décrit le comportement de l'application et les interactions entre les objets)
+- code réutilisable
+- simplifier la maintenance
+- permet de passer plus facilement à d'autres langages

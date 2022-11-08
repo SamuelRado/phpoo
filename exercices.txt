@@ -39,6 +39,7 @@ Un Sith est un Maitre
 
 exécuter la méthode attaquer() d'un jedi et d'un sith
 
+
 class Maitre
 {
 	props:
@@ -69,8 +70,3 @@ class Jedi
 	attaquer(Sith){j'attaque + nom du Sith}
 	mediter(){return "je médite"}
 }
-
-
-
-
-

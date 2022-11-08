@@ -1,0 +1,31 @@
+Enoncé :
+
+Créer les classes
+Créer un objet de la classe Maman
+Donner 5 bonbons à l'objet de la classe Maman
+
+Créer un objet de la classe Enfant
+Initialiser l'objet de la classe Enfant à 0 bonbon
+
+donnerBonbon() permet de donner des bonbons à l'enfant
+
+Si Maman n'a plus de bonbon, afficher une phrase
+
+
+classe Maman
+prop:
+nbBonbons privée
+
+méthodes:
+donnerBonBon(Enfant) publique
+setNbBonbons(int) publique
+getNbBonbons() publique
+
+
+classe Enfant
+prop:
+nbBonbons privée
+
+méthodes:
+setNbBonbons(int) publique
+getNbBonbons() publique

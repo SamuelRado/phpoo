@@ -29,3 +29,48 @@ nbBonbons privée
 méthodes:
 setNbBonbons(int) publique
 getNbBonbons() publique
+
+
+Enonce :
+
+créer classes
+Un Jedi est un Maitre
+Un Sith est un Maitre
+
+exécuter la méthode attaquer() d'un jedi et d'un sith
+
+class Maitre
+{
+	props:
+	int $midichloriens
+	string $nom
+
+	méthodes:
+	attaquer() {return"j'attaque"}
+}
+
+class Sith
+{
+	props:
+	int $midichloriens
+	string $nom
+
+	méthodes:
+	attaquer(Jedi){j'attaque + nom du Jedi}
+}
+
+class Jedi
+{
+	props :
+	int $midichloriens
+	string $nom
+
+	méthodes :
+	attaquer(Sith){j'attaque + nom du Sith}
+	mediter(){return "je médite"}
+}
+
+
+
+
+
